@@ -17,7 +17,7 @@ namespace Restaurant
         public KitchenForm()
         {
             InitializeComponent();
-        }
+        } 
 
         private void KitchenForm_Load(object sender, EventArgs e)
         {
